@@ -444,5 +444,5 @@ ${mundur}
 
 exports.donate = (pushname, ownerNumber) => {
     return`Contact  Owner:
-wa.me/${ownerNumber} (Owner)`
+https://wa.me/6281387292249(Owner)`
 }
